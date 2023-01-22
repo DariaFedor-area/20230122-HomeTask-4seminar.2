@@ -1,0 +1,15 @@
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.csproj.AssemblyReference.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.AssemblyInfoInputs.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.AssemblyInfo.cs
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.csproj.CoreCompileInputs.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\bin\Debug\net6.0\task1_25.exe
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\bin\Debug\net6.0\task1_25.deps.json
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\bin\Debug\net6.0\task1_25.runtimeconfig.json
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\bin\Debug\net6.0\task1_25.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\bin\Debug\net6.0\task1_25.pdb
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\refint\task1_25.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.pdb
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\task1_25.genruntimeconfig.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task1_25\obj\Debug\net6.0\ref\task1_25.dll
