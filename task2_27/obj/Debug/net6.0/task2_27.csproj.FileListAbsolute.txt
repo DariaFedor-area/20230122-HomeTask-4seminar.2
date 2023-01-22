@@ -1,0 +1,15 @@
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.csproj.AssemblyReference.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.AssemblyInfoInputs.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.AssemblyInfo.cs
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.csproj.CoreCompileInputs.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\bin\Debug\net6.0\task2_27.exe
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\bin\Debug\net6.0\task2_27.deps.json
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\bin\Debug\net6.0\task2_27.runtimeconfig.json
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\bin\Debug\net6.0\task2_27.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\bin\Debug\net6.0\task2_27.pdb
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\refint\task2_27.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.pdb
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\task2_27.genruntimeconfig.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\homework4\task2_27\obj\Debug\net6.0\ref\task2_27.dll
