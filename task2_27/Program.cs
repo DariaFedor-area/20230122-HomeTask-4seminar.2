@@ -12,17 +12,17 @@ Console.WriteLine("Давайте посчитаем сумму цифр ваш�
 Console.Write("Введите целое число = ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-int SumNumbers(int number)
+int SumNumbers(int number) // через функцию
 {
     int summ = 0;
-    int count = 0;
+    int a = 0;
     for (int i = 0; i <= number; i++)
     {
-        count = number % 10;
-        summ += count;
+        a = number % 10;
+        number /= 10;
+        summ += a;
     }
     return summ;
 }
-
 
 Console.WriteLine($"сумма цифр в числе = {SumNumbers(number)}");
